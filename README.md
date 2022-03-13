@@ -2,7 +2,7 @@
 
 ## Contact me
 
-* Blog -> <https://homer.ry.github.io/blog/index>
+* 博客首页 -> <https://homer-ry.github.io/blog/index>
 * Email -> <homer.ry@outlook.com>
 
 
