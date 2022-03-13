@@ -8,7 +8,7 @@
 
 ---
 
-## [**paper list***](https://homer-ry.github.io/blog/papers/index)
+## [**paper list**](https://homer-ry.github.io/blog/papers/index)
 
 > 阅读的一些论文
 
